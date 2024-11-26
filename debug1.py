@@ -8,5 +8,5 @@ message="Input a number"
 data input(message)
 """
 
-message="Input a number"
-data input(message)
+message= input("Input a number")
+data = message
